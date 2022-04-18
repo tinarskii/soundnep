@@ -3,7 +3,7 @@ A normal soundboard but only for nep sounds.
 
 ## Contributing
 - Add audio files to the `/static/sounds` directory
-- Add file description to the `/src/lib/sounds.json` file
+- Add file description to the `/src/lib/sounds.ts` file
 - Open a pull request and wait for the merge
 - That's it!
 

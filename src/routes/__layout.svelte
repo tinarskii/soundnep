@@ -11,7 +11,7 @@
   <button class="absolute left-2 top-2 text-lg" on:click={() => ($darkTheme = !$darkTheme)}>
     {$darkTheme ? '🌙' : '🌞'}
   </button>
-  <button class="absolute right-2 top-2 text-lg dark:text-white text-black" on:click={() => goto("https://github.com/tinarskii/soundnep#README")}>
+  <button class="absolute right-2 top-2 text-lg dark:text-white text-black" on:click={() => goto("https://github.com/tinarskii/soundnep#contributing")}>
     Add sound
   </button>
 
